@@ -13,7 +13,7 @@ public class CheckoutApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertTrue(true);
+
 	}
 
 }
